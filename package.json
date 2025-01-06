@@ -1,0 +1,14 @@
+{
+  "name": "tweet-test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "agent-twitter-client": "^0.0.18"
+  }
+}
